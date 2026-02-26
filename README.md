@@ -2,6 +2,10 @@
 # Config-Project-Node-Typescript
 Automatically configure a Node + TypeScript + MongoDB API.
 
+## Como funciona
+
+Crie uma pasta com o nome do seu projeto e basta jogar com comando abaixo do curl dentro do diretória da basta que foi criada com o nome do seu projeto
+
 ## Install Script
 
 ```bash
