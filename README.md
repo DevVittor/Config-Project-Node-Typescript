@@ -4,7 +4,9 @@ Automatically configure a Node + TypeScript + MongoDB API.
 
 ## Como funciona
 
-Crie uma pasta com o nome do seu projeto e basta jogar com comando abaixo do curl dentro do diretória da basta que foi criada com o nome do seu projeto
+Crie uma pasta com o nome do seu projeto e basta colocar o comando abaixo do curl dentro do diretória da basta que foi criada com o nome do seu projeto
+
+| Ex: project/server/`curl -fsSL https://tinyurl.com/node22ts | bash`
 
 ## Install Script
 
