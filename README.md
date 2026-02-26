@@ -1,3 +1,4 @@
+![bash+terminal](https://i.imgur.com/jVg5NA7.jpeg)
 # Config-Project-Node-Typescript
 Automatically configure a Node + TypeScript + MongoDB API.
 
